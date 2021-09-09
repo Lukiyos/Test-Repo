@@ -1,5 +1,6 @@
-# Test-Repo
-This is a test repo
+# Introduction
+This is a respitory created by Londyn
 
-
-This is only a test
+Run this command to execute the application
+# Usage Run this command to execute the application: `
+python filename.py
